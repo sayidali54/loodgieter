@@ -1,0 +1,1149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="HydroElite Plumbing & Heating: The local authority in elite plumbing, heating, and emergency leak repairs. Arriving in 45 minutes or less, 24/7/365. Free on-site estimates, zero call-out fees.">
+    <meta name="keywords" content="premium plumber, emergency plumber, luxury bathroom renovation, leak detection, gas safe boiler installation, metro city plumbing">
+    
+    <!-- Open Graph Metadata -->
+    <meta property="og:title" content="HydroElite | Elite Plumbing & Emergency Heating Services">
+    <meta property="og:description" content="24/7/365 priority emergency plumbing and boiler repairs. Arriving in 45 minutes or less, guaranteed.">
+    <meta property="og:image" content="images/hero.png">
+    <meta property="og:url" content="https://www.hydroeliteplumbing.com">
+    <meta property="og:type" content="website">
+    
+    <!-- Twitter Card Metadata -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="HydroElite | Premium Plumbing & 24/7 Emergency Repairs">
+    <meta name="twitter:description" content="Elite plumbing craftmanship with transparent fixed pricing and a 12-month parts and labor warranty.">
+    <meta name="twitter:image" content="images/hero.png">
+    
+    <title>HydroElite | Premium Plumbers & Emergency Leak Repair 24/7</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <!-- Custom Style Sheet -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Local Business Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "PlumbingService",
+      "name": "HydroElite Plumbing & Heating",
+      "image": "https://www.hydroeliteplumbing.com/images/hero.png",
+      "@id": "https://www.hydroeliteplumbing.com/#plumbingservice",
+      "url": "https://www.hydroeliteplumbing.com",
+      "telephone": "+18005550199",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "120 Plaza Industrial Way, Suite A",
+        "addressLocality": "Metro City",
+        "postalCode": "90210",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.073620,
+        "longitude": -118.400356
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "sameAs": [
+        "https://www.facebook.com/hydroeliteplumbing",
+        "https://www.instagram.com/hydroeliteplumbing"
+      ],
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Metro City"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Beverly Hills"
+        }
+      ]
+    }
+    </script>
+</head>
+<body>
+
+    <!-- 1. STICKY GLASS NAVBAR -->
+    <header class="main-header" id="mainHeader">
+        <div class="header-container">
+            <a href="#" class="logo">
+                <span class="logo-icon">
+                    <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a7 7 0 0 0 7-7c0-4.3-7-11-7-11S5 10.7 5 15a7 7 0 0 0 7 7z"/></svg>
+                </span>
+                <span class="logo-text">Hydro<span>Elite</span></span>
+            </a>
+            
+            <nav class="nav-menu" id="navMenu">
+                <ul>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#why-choose">Why Us</a></li>
+                    <li><a href="#gallery">Before & After</a></li>
+                    <li><a href="#pricing">Pricing</a></li>
+                    <li><a href="#process">Process</a></li>
+                    <li><a href="#team">Team</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                </ul>
+            </nav>
+
+            <div class="header-actions">
+                <a href="tel:+18005550199" class="phone-link btn-secondary-header">
+                    <span class="pulse-indicator"></span>
+                    <span class="header-phone-text">Emergency: (800) 555-0199</span>
+                    <span class="header-phone-icon">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                    </span>
+                </a>
+                <a href="#quote-section" class="btn-primary">Request Quote</a>
+                <button class="mobile-nav-toggle" id="mobileNavToggle" aria-label="Toggle Navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- MOBILE MENU OVERLAY -->
+    <div class="mobile-menu-overlay" id="mobileMenuOverlay">
+        <nav class="mobile-nav">
+            <ul>
+                <li><a href="#services" class="mobile-nav-link">Services</a></li>
+                <li><a href="#why-choose" class="mobile-nav-link">Why Us</a></li>
+                <li><a href="#gallery" class="mobile-nav-link">Before & After</a></li>
+                <li><a href="#pricing" class="mobile-nav-link">Pricing</a></li>
+                <li><a href="#process" class="mobile-nav-link">Process</a></li>
+                <li><a href="#team" class="mobile-nav-link">Team</a></li>
+                <li><a href="#faq" class="mobile-nav-link">FAQ</a></li>
+            </ul>
+            <div class="mobile-menu-ctas">
+                <a href="tel:+18005550199" class="btn-primary w-full text-center">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="inline-icon"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                    Call Now: (800) 555-0199
+                </a>
+                <a href="#quote-section" class="btn-secondary w-full text-center mobile-nav-link">Get a Free Quote</a>
+            </div>
+        </nav>
+    </div>
+
+    <!-- 2. LUXURY HERO -->
+    <section class="hero-section">
+        <div class="stripe-mesh-grid"></div>
+        <div class="glow-radial glow-hero-1"></div>
+        <div class="glow-radial glow-hero-2"></div>
+        
+        <div class="hero-bg-container">
+            <img src="images/hero.png" alt="Clean luxury kitchen representing elite plumbing craftmanship" class="hero-bg-image">
+            <div class="hero-overlay"></div>
+        </div>
+        
+        <div class="hero-container">
+            <div class="hero-content scroll-reveal">
+                <div class="emergency-badge glass-card">
+                    <span class="pulse-indicator"></span>
+                    <span>45-Min Guaranteed Emergency Dispatch</span>
+                </div>
+                <h1 class="hero-title">Professional Plumber <br><span class="highlight-text">Available 24/7</span></h1>
+                <p class="hero-subtitle">Fast response, fair prices, and reliable workmanship. We safeguard luxury residences and commercial projects with elite plumbing standards.</p>
+                
+                <div class="hero-ctas">
+                    <a href="tel:+18005550199" class="btn-primary btn-large btn-ripple">
+                        <span class="btn-icon">
+                            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                        </span>
+                        Call Dispatch: (800) 555-0199
+                    </a>
+                    <a href="#quote-section" class="btn-secondary btn-large">Get Free Quote</a>
+                </div>
+
+                <div class="hero-trust-elements">
+                    <div class="trust-item">
+                        <span class="trust-icon">⭐</span>
+                        <span><strong>4.9/5</strong> Star Google Rating</span>
+                    </div>
+                    <div class="trust-item">
+                        <span class="trust-icon">✓</span>
+                        <span>$5M General Liability Insured</span>
+                    </div>
+                    <div class="trust-item">
+                        <span class="trust-icon">✓</span>
+                        <span>100% Satisfaction Guarantee</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- FLOATING QUOTE CARD -->
+            <div class="hero-quote-card glass-card tilt-card scroll-reveal">
+                <div class="card-glow"></div>
+                <h3>Request Priority Service</h3>
+                <p>Submit your inquiry. A certified dispatcher will review and contact you in under 15 minutes.</p>
+                <form id="heroQuoteForm" class="quote-form-mini">
+                    <div class="form-group">
+                        <input type="text" id="heroName" placeholder="Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="tel" id="heroPhone" placeholder="Your Phone Number" required>
+                    </div>
+                    <div class="form-group">
+                        <select id="heroService" required>
+                            <option value="" disabled selected>Service Needed</option>
+                            <option value="Emergency plumbing">Emergency Plumbing (Active Leaks)</option>
+                            <option value="Leak repairs">Leak Detection & Pipe Repair</option>
+                            <option value="Drain cleaning">High-Pressure Hydro-Jetting</option>
+                            <option value="Bathroom installation">Luxury Fixture Installation</option>
+                            <option value="Boiler installation">Boiler / Heater Commissioning</option>
+                            <option value="Pipe replacement">Full-Home Repiping (PEX/Copper)</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="btn-primary w-full btn-ripple">Connect with Plumber</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. TRUST BADGES -->
+    <section class="certifications-section">
+        <div class="container">
+            <p class="cert-title">Certified Craftsmanship & Regulatory Assurances</p>
+            <div class="cert-grid">
+                <div class="cert-logo scroll-reveal">
+                    <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.5" class="cert-svg"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                    <span>Licensed Plumber Association</span>
+                </div>
+                <div class="cert-logo scroll-reveal">
+                    <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.5" class="cert-svg"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg>
+                    <span>Gas Safe Council</span>
+                </div>
+                <div class="cert-logo scroll-reveal">
+                    <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.5" class="cert-svg"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+                    <span>ISO 9001 Quality Compliant</span>
+                </div>
+                <div class="cert-logo scroll-reveal">
+                    <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.5" class="cert-svg"><path d="M3 3h18v18H3z"/><path d="M9 12h6"/><path d="M12 9v6"/></svg>
+                    <span>SafeContractor Certified</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 4. GOOGLE REVIEWS STYLE CARDS -->
+    <section class="reviews-section" id="reviews">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">Client Feedback</span>
+                <h2 class="section-title">Verified Google Ratings</h2>
+                <p class="section-subtitle">Real feedback from local homeowners who experienced our high-end plumbing standards first-hand.</p>
+            </div>
+
+            <!-- GOOGLE RATINGS SUMMARY BLOCK -->
+            <div class="google-summary-card glass-card scroll-reveal">
+                <div class="card-glow"></div>
+                <div class="google-rating-details">
+                    <img src="data:image/svg+xml;utf8,<svg viewBox='0 0 24 24' width='28' height='28' xmlns='http://www.w3.org/2000/svg'><path d='M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z' fill='%234285F4'/><path d='M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z' fill='%2334A853'/><path d='M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.06H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.94l2.85-2.22c-.87-2.6-3.3-4.53-6.16-4.53z' fill='%23FBBC05'/><path d='M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.06l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z' fill='%23EA4335'/></svg>" alt="Google G logo" class="google-logo">
+                    <div class="rating-info">
+                        <h3>Google Business Profile</h3>
+                        <div class="stars-row">
+                            <span class="star-rating">★★★★★</span>
+                            <span class="score-text">4.9 / 5.0 Rating</span>
+                        </div>
+                        <p class="count-text">Based on 152 verified local residential testimonials</p>
+                    </div>
+                </div>
+                <div class="summary-actions">
+                    <a href="#quote-section" class="btn-primary btn-ripple">Request Priority Service</a>
+                </div>
+            </div>
+
+            <!-- REVIEW CARDS GRID -->
+            <div class="reviews-grid">
+                <div class="review-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="review-header">
+                        <div class="reviewer-meta">
+                            <div class="reviewer-avatar">DM</div>
+                            <div>
+                                <h4 class="reviewer-name">David Miller</h4>
+                                <span class="review-date">2 days ago</span>
+                            </div>
+                        </div>
+                        <span class="verified-badge">✓ Verified Client</span>
+                    </div>
+                    <div class="review-stars">★★★★★</div>
+                    <p class="review-text">"Had a massive burst pipe in the kitchen basement late Sunday night. Water was everywhere. Called HydroElite and their plumber arrived in 35 minutes! He isolated the leak and replaced the broken copper elbow in under an hour. Outstanding response and very fair pricing."</p>
+                    <div class="review-source">Google Maps Review • Emergency Leak Repair</div>
+                </div>
+
+                <div class="review-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="review-header">
+                        <div class="reviewer-meta">
+                            <div class="reviewer-avatar">SC</div>
+                            <div>
+                                <h4 class="reviewer-name">Sarah Connor</h4>
+                                <span class="review-date">1 week ago</span>
+                            </div>
+                        </div>
+                        <span class="verified-badge">✓ Verified Client</span>
+                    </div>
+                    <div class="review-stars">★★★★★</div>
+                    <p class="review-text">"Outstanding service! We had a boiler failure during the coldest week of winter. The technician gave us an upfront diagnostic quote and completed a full combi boiler swap the next day. The crew kept everything clean and the new system is working flawlessly."</p>
+                    <div class="review-source">Google Maps Review • Premium Boiler Installation</div>
+                </div>
+
+                <div class="review-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="review-header">
+                        <div class="reviewer-meta">
+                            <div class="reviewer-avatar">JH</div>
+                            <div>
+                                <h4 class="reviewer-name">James Howlett</h4>
+                                <span class="review-date">3 weeks ago</span>
+                            </div>
+                        </div>
+                        <span class="verified-badge">✓ Verified Client</span>
+                    </div>
+                    <div class="review-stars">★★★★★</div>
+                    <p class="review-text">"Called them to fix a slow drain in the main bath and replace the outdated sink fixtures. They did a phenomenal job, very neat copper pipe work beneath the sink cabinet. Very professional team. Worth every penny for quality work."</p>
+                    <div class="review-source">Google Maps Review • Luxury Fixture Installation</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 5. EMERGENCY CALL SECTION (HIGH CONTRAST WARNING BANNER) -->
+    <section class="emergency-banner-section">
+        <div class="glow-radial glow-emergency"></div>
+        <div class="emergency-banner-bg"></div>
+        <div class="container emergency-banner-container">
+            <div class="emergency-banner-content scroll-reveal">
+                <span class="emergency-subtitle-tag">Emergency Response Team</span>
+                <h2>Active Water Leak or Cold Heating System?</h2>
+                <p>Do not let structural moisture degrade your property assets. Our standby vans are stationed nearby, fully loaded with professional replacement components for immediate dispatch.</p>
+                <div class="emergency-features">
+                    <div class="feature-badge">⚡ 45 Min Max ETA</div>
+                    <div class="feature-badge">🛠️ Heavy-Duty Truck Stock</div>
+                    <div class="feature-badge">💲 Zero Call-Out Fees</div>
+                </div>
+            </div>
+            <div class="emergency-banner-cta scroll-reveal">
+                <a href="tel:+18005550199" class="btn-accent-pulse btn-ripple">
+                    <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" class="phone-svg-animated"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                    <span>Emergency Call: (800) 555-0199</span>
+                </a>
+                <p class="cta-note">Average call connection time: <strong>4.8 seconds</strong></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 6. WHY CHOOSE US -->
+    <section class="why-choose-section" id="why-choose">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">Company Guarantees</span>
+                <h2 class="section-title">The Standard of Professionalism</h2>
+                <p class="section-subtitle">We have spent over a decade perfecting our processes to ensure homeowners receive the ultimate service experience.</p>
+            </div>
+
+            <div class="why-choose-grid">
+                <div class="why-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="why-icon-box">
+                        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                    </div>
+                    <h4>Licensed & Insured</h4>
+                    <p>All our professionals are background-checked, fully licensed, and backed by a $5M liability insurance policy for total peace of mind.</p>
+                </div>
+                
+                <div class="why-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="why-icon-box">
+                        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                    </div>
+                    <h4>45-Minute Rapid Response</h4>
+                    <p>We leverage advanced GPS dispatch technology to send the closest technician to your location, guaranteeing an arrival time of 45 minutes or less.</p>
+                </div>
+
+                <div class="why-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="why-icon-box">
+                        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                    </div>
+                    <h4>Transparent Fixed Quotes</h4>
+                    <p>No hidden fees or surprise hourly surcharges. We provide a firm, up-front quote before we start. You pay exactly what you approved.</p>
+                </div>
+
+                <div class="why-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="why-icon-box">
+                        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+                    </div>
+                    <h4>12-Month Workmanship Warranty</h4>
+                    <p>We stand firmly by our work. Every repair is backed by our robust 12-month parts and labor warranty. If it fails, we fix it for free.</p>
+                </div>
+            </div>
+            
+            <div class="text-center mt-12 scroll-reveal">
+                <a href="#quote-section" class="btn-primary btn-ripple">Book Service Appointment</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 7. SERVICES SECTION -->
+    <section class="services-section" id="services">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">Capabilities & Expertise</span>
+                <h2 class="section-title">Specialist Plumbing Services</h2>
+                <p class="section-subtitle">Deploying state-of-the-art diagnostic gear, thermal imaging, and pressure flow equipment for precise solutions.</p>
+            </div>
+
+            <div class="services-grid">
+                <!-- Card 1: Emergency plumbing -->
+                <div class="service-card highlighted-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <span class="card-badge">24/7 Dispatch</span>
+                    <div class="service-icon">
+                        <svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                    </div>
+                    <h3>Emergency Plumbing</h3>
+                    <p>Immediate containment of flooding, burst distribution lines, failed main valves, and structural leak threats.</p>
+                    <a href="tel:+18005550199" class="service-cta">Emergency Dispatch &rarr;</a>
+                </div>
+
+                <!-- Card 2: Leak repairs -->
+                <div class="service-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="service-icon">
+                        <svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                    </div>
+                    <h3>Water Leak Detection</h3>
+                    <p>Non-invasive thermal imaging and acoustic localization to locate internal structural leaks without tearing down plaster.</p>
+                    <a href="#quote-section" class="service-cta">Schedule Audit &rarr;</a>
+                </div>
+
+                <!-- Card 3: Drain cleaning -->
+                <div class="service-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="service-icon">
+                        <svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M8 12h8"/></svg>
+                    </div>
+                    <h3>Sewer & Drain Cleansing</h3>
+                    <p>High-pressure hydro-jetting and color fiber-optic sewer line camera scans to restore clogged main drain lines.</p>
+                    <a href="#quote-section" class="service-cta">Schedule Clean &rarr;</a>
+                </div>
+
+                <!-- Card 4: Bathroom installation -->
+                <div class="service-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="service-icon">
+                        <svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2z"/><path d="M12 2v8M12 14h.01"/></svg>
+                    </div>
+                    <h3>Bathroom Commissioning</h3>
+                    <p>Custom sanitaryware plumbing, luxury steam shower fittings, wall-mounted fixtures, and freestanding soaking tub integrations.</p>
+                    <a href="#quote-section" class="service-cta">Consult Design &rarr;</a>
+                </div>
+
+                <!-- Card 5: Boiler installation -->
+                <div class="service-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="service-icon">
+                        <svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9z"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+                    </div>
+                    <h3>Heating & Boiler Commission</h3>
+                    <p>Energy-efficient combi boilers and tankless water systems. Full diagnostic, replacement, and system balancing.</p>
+                    <a href="#quote-section" class="service-cta">Estimate Swap &rarr;</a>
+                </div>
+
+                <!-- Card 6: Pipe replacement -->
+                <div class="service-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="service-icon">
+                        <svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.21 15.89A10 10 0 1 1 8 2.83M22 12A10 10 0 0 0 12 2v10z"/></svg>
+                    </div>
+                    <h3>Full Repiping Services</h3>
+                    <p>Complete property replumbing utilizing professional-grade solid copper line layouts or durable PEX-a distribution grids.</p>
+                    <a href="#quote-section" class="service-cta">Request Survey &rarr;</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 8. BEFORE & AFTER SLIDER -->
+    <section class="gallery-section" id="gallery">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">Visual Proof</span>
+                <h2 class="section-title">Before & After Results</h2>
+                <p class="section-subtitle">A direct comparison of a corroded leak point versus our brand-new copper replacement work. Drag to compare.</p>
+            </div>
+
+            <div class="slider-wrapper scroll-reveal">
+                <div class="before-after-slider" id="beforeAfterSlider">
+                    <!-- Before Image -->
+                    <div class="image-container before-image">
+                        <img src="images/before.png" alt="Rusted pipe fitting with active water spray leaking under sink cabinet">
+                        <span class="label-badge before-label">Before (Corrosion & Leak)</span>
+                    </div>
+                    <!-- After Image -->
+                    <div class="image-container after-image" id="afterImageContainer">
+                        <img src="images/after.png" alt="Clean copper pipe installation with polished brass connections under sink">
+                        <span class="label-badge after-label">After (HydroElite Precision Work)</span>
+                    </div>
+                    <!-- Drag Bar -->
+                    <div class="drag-bar" id="dragBar">
+                        <div class="drag-handle">
+                            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="8 17 12 21 16 17"/><polyline points="8 7 12 3 16 7"/><line x1="12" y1="3" x2="12" y2="21"/></svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="gallery-footer-info scroll-reveal">
+                <p>💡 Interactive Element: Click/touch and slide the white bar sideways to reveal the workmanship quality difference.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 9. STATISTICS ROW (WITH ANIMATED COUNTERS) -->
+    <section class="stats-section">
+        <div class="glow-radial glow-stats"></div>
+        <div class="container stats-grid">
+            <div class="stat-box scroll-reveal">
+                <div class="stat-number-wrapper">
+                    <span class="stat-count" data-target="45">0</span>
+                    <span class="stat-suffix">Min</span>
+                </div>
+                <p class="stat-desc">Guaranteed Max Response Time</p>
+            </div>
+
+            <div class="stat-box scroll-reveal">
+                <div class="stat-number-wrapper">
+                    <span class="stat-count" data-target="15">0</span>
+                    <span class="stat-suffix">k+</span>
+                </div>
+                <p class="stat-desc">Leaks Correctly Resolved</p>
+            </div>
+
+            <div class="stat-box scroll-reveal">
+                <div class="stat-number-wrapper">
+                    <span class="stat-count" data-target="99">0</span>
+                    <span class="stat-suffix">.2%</span>
+                </div>
+                <p class="stat-desc">Customer Satisfaction Rating</p>
+            </div>
+
+            <div class="stat-box scroll-reveal">
+                <div class="stat-number-wrapper">
+                    <span class="stat-count" data-target="10">0</span>
+                    <span class="stat-suffix">+</span>
+                </div>
+                <p class="stat-desc">Years in Active Local Service</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 10. MEET THE TEAM -->
+    <section class="team-section" id="team">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">Licensed Personnel</span>
+                <h2 class="section-title">Meet Our Lead Engineers</h2>
+                <p class="section-subtitle">Professional tradesmen with background checks, drug screenings, and advanced master-level credentials.</p>
+            </div>
+
+            <div class="team-grid">
+                <!-- Team Member 1 -->
+                <div class="team-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="team-avatar-box">
+                        <!-- Custom styled placeholder graphic -->
+                        <div class="team-graphic-avatar">
+                            <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                        </div>
+                    </div>
+                    <div class="team-meta">
+                        <span class="team-badge">Master Plumber</span>
+                        <h4>Marcus Vance</h4>
+                        <p class="team-bio">Over 14 years of commercial and complex residential pipe fitting. Expert in luxury bathroom hydraulic balance.</p>
+                        <span class="verified-badge-pill">✓ Verified Background</span>
+                    </div>
+                </div>
+
+                <!-- Team Member 2 -->
+                <div class="team-card highlighted-team-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="team-avatar-box">
+                        <div class="team-graphic-avatar">
+                            <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                        </div>
+                    </div>
+                    <div class="team-meta">
+                        <span class="team-badge">Gas Safe Supervisor</span>
+                        <h4>James Sterling</h4>
+                        <p class="team-bio">Specializes in boiler commissionings, diagnostics, heat exchange arrays, and commercial pipe layouts.</p>
+                        <span class="verified-badge-pill">✓ Verified Background</span>
+                    </div>
+                </div>
+
+                <!-- Team Member 3 -->
+                <div class="team-card glass-card tilt-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="team-avatar-box">
+                        <div class="team-graphic-avatar">
+                            <svg viewBox="0 0 24 24" width="60" height="60" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+                        </div>
+                    </div>
+                    <div class="team-meta">
+                        <span class="team-badge">Leak Detection Lead</span>
+                        <h4>Clara Oswald</h4>
+                        <p class="team-bio">Highly skilled in acoustic sensor systems and advanced structural thermal imaging scans.</p>
+                        <span class="verified-badge-pill">✓ Verified Background</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 11. PROCESS FLOW SECTION -->
+    <section class="process-section" id="process">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">How We Work</span>
+                <h2 class="section-title">The HydroElite Process</h2>
+                <p class="section-subtitle">A simple, transparent, and completely zero-stress pipeline from booking to verified clean resolution.</p>
+            </div>
+
+            <div class="process-timeline-container">
+                <div class="timeline-progress-bar" id="timelineProgressBar"></div>
+                
+                <!-- Step 1 -->
+                <div class="timeline-step scroll-reveal">
+                    <div class="step-marker-box">
+                        <span class="step-num">01</span>
+                    </div>
+                    <div class="step-content glass-card">
+                        <div class="card-glow"></div>
+                        <h4>Priority Dispatch Booking</h4>
+                        <p>Call our dispatch line or request quote. We locate the nearest technician equipped for your specific requirements and route them to your coordinate coordinates.</p>
+                    </div>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="timeline-step scroll-reveal">
+                    <div class="step-marker-box">
+                        <span class="step-num">02</span>
+                    </div>
+                    <div class="step-content glass-card">
+                        <div class="card-glow"></div>
+                        <h4>Diagnostics & Fixed Estimate</h4>
+                        <p>Our technician runs non-invasive diagnostics. We provide a firm quote detailing parts and labor. We proceed only with your signature on the fixed quote.</p>
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="timeline-step scroll-reveal">
+                    <div class="step-marker-box">
+                        <span class="step-num">03</span>
+                    </div>
+                    <div class="step-content glass-card">
+                        <div class="card-glow"></div>
+                        <h4>Precision Execution</h4>
+                        <p>Our tradesmen use high-grade parts (solid copper, brand-name valves, custom seals) to execute repairs. We work cleanly, wearing floor protectors throughout the session.</p>
+                    </div>
+                </div>
+
+                <!-- Step 4 -->
+                <div class="timeline-step scroll-reveal">
+                    <div class="step-marker-box">
+                        <span class="step-num">04</span>
+                    </div>
+                    <div class="step-content glass-card">
+                        <div class="card-glow"></div>
+                        <h4>Warranty Signoff & Cleanup</h4>
+                        <p>We double-check line pressures, clean up the workspace, and provide your 12-month parts and labor warranty document. You review and sign off the completion form.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 12. PRICING SECTION -->
+    <section class="pricing-section" id="pricing">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">Fixed Pricing Structure</span>
+                <h2 class="section-title">Transparent Service Packages</h2>
+                <p class="section-subtitle">No hourly surprise markups. Upfront billing with certified plumbers. Select your service level.</p>
+            </div>
+
+            <div class="pricing-grid">
+                <!-- Package 1 -->
+                <div class="pricing-card glass-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="price-header">
+                        <h4>Minor Repair Diagnostic</h4>
+                        <div class="price-amount">$89</div>
+                        <p>Ideal for fixture dripping, minor pipe clogs, or single valve checks.</p>
+                    </div>
+                    <ul class="price-features">
+                        <li>✓ Non-invasive physical inspection</li>
+                        <li>✓ Complete repair proposal</li>
+                        <li>✓ Free fee waiver if work proceeds</li>
+                        <li>✓ Full background check plumber</li>
+                    </ul>
+                    <a href="#quote-section" class="btn-secondary w-full text-center">Book Diagnostics</a>
+                </div>
+
+                <!-- Package 2 (Standard Install) -->
+                <div class="pricing-card highlighted-price-card glass-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <span class="price-badge">Most Popular</span>
+                    <div class="price-header">
+                        <h4>Standard Repair / Install</h4>
+                        <div class="price-amount">$249</div>
+                        <p>Boiler diagnostics, complete sink piping rework, or main line hydro-jet cleaning.</p>
+                    </div>
+                    <ul class="price-features">
+                        <li>✓ 12-Month Workmanship Warranty</li>
+                        <li>✓ State-of-the-art camera routing</li>
+                        <li>✓ Floor protective cleanup</li>
+                        <li>✓ Heavy-duty components</li>
+                    </ul>
+                    <a href="#quote-section" class="btn-primary w-full text-center btn-ripple">Schedule Repair</a>
+                </div>
+
+                <!-- Package 3 -->
+                <div class="pricing-card glass-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="price-header">
+                        <h4>24/7 Priority Emergency</h4>
+                        <div class="price-amount">$399</div>
+                        <p>Active flooding burst pipe isolation, gas safety shutoffs, and immediate priority dispatch.</p>
+                    </div>
+                    <ul class="price-features">
+                        <li>✓ Guaranteed 45-min arrival or free</li>
+                        <li>✓ Out-of-hours master technician</li>
+                        <li>✓ Immediate emergency stabilization</li>
+                        <li>✓ $5M liability insurance coverage</li>
+                    </ul>
+                    <a href="tel:+18005550199" class="btn-secondary w-full text-center">Dispatch Plumber</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 13. FAQ ACCORDION -->
+    <section class="faq-section" id="faq">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">Got Questions?</span>
+                <h2 class="section-title">Frequently Asked Questions</h2>
+                <p class="section-subtitle">Clear information regarding response timing, service parameters, licensing, and workmanship warranties.</p>
+            </div>
+
+            <div class="faq-accordion-container scroll-reveal">
+                <div class="faq-item">
+                    <button class="faq-question">
+                        <span>How fast can you arrive for an emergency plumbing issue?</span>
+                        <span class="faq-icon-arrow">
+                            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+                        </span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>We guarantee a response time of 45 minutes or less for any urgent plumbing emergency inside our dispatch zone. Our vehicles are pre-loaded with standard pipe replacements, gaskets, and fixtures to resolve most residential emergencies on the first visit.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        <span>Do you charge a call-out fee?</span>
+                        <span class="faq-icon-arrow">
+                            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+                        </span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>No, we believe in transparent pricing. We offer free on-site estimates during regular working hours. You will receive a complete flat-rate price quote detailing parts and labor before any work commences. If you decide not to proceed, you pay nothing.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        <span>Are your plumbers licensed and insured?</span>
+                        <span class="faq-icon-arrow">
+                            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+                        </span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Absolutely. Every technician under the HydroElite umbrella is fully licensed by trade boards, holds current health and safety credentials, and is covered by our comprehensive $5 million commercial general liability insurance policy to guarantee your home is fully protected.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        <span>Do you provide a warranty on your plumbing repairs?</span>
+                        <span class="faq-icon-arrow">
+                            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+                        </span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Yes. All residential repairs are backed by our signature 12-month parts and labor guarantee. If the fixed pipe, valve, or joint experiences any failure related to our service within 12 months, we will return and fix it immediately with zero cost to you.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        <span>What specific plumbing emergencies do you handle?</span>
+                        <span class="faq-icon-arrow">
+                            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+                        </span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>We handle all major emergencies including burst pipe lines, active leaks, backed-up sewage lines, overflowing toilets, non-functioning water heaters (in winter), frozen outdoor fixtures, and water isolation valves that fail to shut off.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 14. SERVICE AREA HUB & ZIP CHECKER -->
+    <section class="service-area-section">
+        <div class="container service-area-grid">
+            <div class="map-text-container scroll-reveal">
+                <span class="section-tagline">Local Coverage</span>
+                <h2 class="section-title">Our Dispatch Radius</h2>
+                <p>To preserve our 45-minute arrival promise, we operate in a strict 35-mile radius around the central metropolitan hub. Plumbers are stationed in suburbs to guarantee dispatch speeds.</p>
+                
+                <div class="zip-checker-box glass-card">
+                    <div class="card-glow"></div>
+                    <h4>Verify Area Coverage</h4>
+                    <p>Enter your ZIP / Postal code below to see if we can dispatch an emergency plumber to your address today.</p>
+                    <div class="zip-input-row">
+                        <input type="text" id="zipInput" placeholder="Enter ZIP Code (e.g. 90210)" aria-label="Enter Zip Code">
+                        <button type="button" class="btn-primary btn-ripple" id="zipCheckBtn">Verify Zip</button>
+                    </div>
+                    <div class="zip-result" id="zipResult"></div>
+                </div>
+            </div>
+
+            <!-- STYLIZED SVG INTERACTIVE MAP -->
+            <div class="map-visual-container scroll-reveal">
+                <svg viewBox="0 0 500 400" width="100%" height="100%" class="styled-map-svg" aria-label="Interactive Coverage Map">
+                    <defs>
+                        <radialGradient id="grad1" cx="50%" cy="50%" r="50%">
+                            <stop offset="0%" style="stop-color:rgb(255,107,53); stop-opacity:0.2" />
+                            <stop offset="100%" style="stop-color:rgb(11,19,43); stop-opacity:0" />
+                        </radialGradient>
+                    </defs>
+                    <path d="M 50,80 Q 150,50 250,90 T 450,110 Q 420,250 350,330 T 120,310 Q 30,220 50,80 Z" fill="#0E1834" stroke="#1F2F57" stroke-width="2"/>
+                    <circle cx="250" cy="200" r="120" fill="url(#grad1)" />
+                    <circle cx="250" cy="200" r="10" fill="#FF6B35" class="map-pulse-dot" />
+                    <circle cx="180" cy="150" r="4" fill="#778DA9" />
+                    <circle cx="320" cy="180" r="4" fill="#778DA9" />
+                    <circle cx="220" cy="280" r="4" fill="#778DA9" />
+                    <circle cx="280" cy="110" r="4" fill="#778DA9" />
+                    <circle cx="250" cy="200" r="120" stroke="#FF6B35" stroke-width="1.5" stroke-dasharray="4,4" fill="none" opacity="0.6"/>
+                    <text x="250" y="70" fill="#FF6B35" font-size="12" text-anchor="middle" font-weight="bold">35-MILE DISPATCH ZONE</text>
+                    <text x="250" y="195" fill="#FFFFFF" font-size="11" text-anchor="middle" font-weight="bold">MAIN HUB</text>
+                </svg>
+                <div class="map-legend">
+                    <span class="legend-item"><span class="legend-dot main-hub"></span>Main Dispatch Center</span>
+                    <span class="legend-item"><span class="legend-dot active-zone"></span>45-Min Guaranteed Zone</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 15. LUXURY WORK GALLERY -->
+    <section class="gallery-grid-section">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">Completed Works</span>
+                <h2 class="section-title">The Craftsmanship Gallery</h2>
+                <p class="section-subtitle">High-end pipe layups, premium boiler commissioning, and custom luxury bathroom installations.</p>
+            </div>
+
+            <div class="work-gallery-grid">
+                <!-- Gallery Item 1 -->
+                <div class="gallery-item-card glass-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="gallery-img-box">
+                        <svg viewBox="0 0 100 100" class="placeholder-gallery-svg"><path d="M20 20h60v60H20z" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/><circle cx="50" cy="50" r="15" fill="none" stroke="rgba(255,107,53,0.3)" stroke-width="2"/></svg>
+                        <div class="gallery-hover-info">
+                            <h5>Luxury Wetroom Piping</h5>
+                            <p>Completed in Beverly Hills</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Gallery Item 2 -->
+                <div class="gallery-item-card glass-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="gallery-img-box">
+                        <svg viewBox="0 0 100 100" class="placeholder-gallery-svg"><path d="M20 20h60v60H20z" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/><path d="M35 50h30" stroke="rgba(255,107,53,0.3)" stroke-width="2"/></svg>
+                        <div class="gallery-hover-info">
+                            <h5>Boiler System Commission</h5>
+                            <p>Viessmann 35kW Combi Setup</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Gallery Item 3 -->
+                <div class="gallery-item-card glass-card scroll-reveal">
+                    <div class="card-glow"></div>
+                    <div class="gallery-img-box">
+                        <svg viewBox="0 0 100 100" class="placeholder-gallery-svg"><path d="M20 20h60v60H20z" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/><rect x="40" y="40" width="20" height="20" rx="4" fill="none" stroke="rgba(255,107,53,0.3)" stroke-width="2"/></svg>
+                        <div class="gallery-hover-info">
+                            <h5>Manifold Repiping Array</h5>
+                            <p>Elite PEX-a manifolds</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 16. NARRATIVE TESTIMONIALS CAROUSEL -->
+    <section class="testimonials-carousel-section">
+        <div class="container">
+            <div class="section-header scroll-reveal">
+                <span class="section-tagline">Deep Testimonials</span>
+                <h2 class="section-title">Homeowners Success Stories</h2>
+                <p class="section-subtitle">Comprehensive client descriptions of high-pressure emergency rescues and multi-system custom plumbing installs.</p>
+            </div>
+
+            <div class="testimonials-carousel-container scroll-reveal">
+                <!-- Testimonial Slide 1 -->
+                <div class="testimonial-slide glass-card">
+                    <div class="card-glow"></div>
+                    <p class="testimonial-quote">"We woke up to find a massive leak spraying through the drywall of our formal dining room ceiling. It was absolute panic. I called HydroElite and they routed an engineer to us instantly. Marcus arrived in 25 minutes, shut down the main supply line, localized the split copper joint behind the partition, and had it fully repaired by 8:30 AM. He even set up moisture blowers to protect our hardwood floors. A level of service that justifies every dollar."</p>
+                    <div class="testimonial-author">
+                        <span class="author-avatar">EP</span>
+                        <div>
+                            <h5>Eleanor Parker</h5>
+                            <p>Verified Homeowner • Beverly Hills</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 17. LUXURY CTA BANNER -->
+    <section class="cta-banner-section">
+        <div class="glow-radial glow-cta-banner"></div>
+        <div class="container cta-banner-container scroll-reveal">
+            <h2>Experience The HydroElite Standard</h2>
+            <p>Ensure your home's integrity is protected by certified engineers. Get absolute price transparency, clean operations, and a robust 12-month parts and labor warranty.</p>
+            <div class="cta-banner-buttons">
+                <a href="tel:+18005550199" class="btn-primary btn-large btn-ripple">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" class="inline-icon"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                    Call: (800) 555-0199
+                </a>
+                <a href="#quote-section" class="btn-secondary btn-large">Schedule Online Quote</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 18. LUXURY CONTACT & QUOTE FORM -->
+    <section class="contact-section" id="quote-section">
+        <div class="container contact-grid">
+            <div class="contact-info-panel scroll-reveal">
+                <span class="section-tagline">Secure Booking</span>
+                <h2 class="section-title">Schedule a Premium Plumbing Service</h2>
+                <p>Fill out our secure booking form to request a professional diagnostics, schedule a custom site survey, or book an urgent dispatcher. Our service coordinators will contact you in under 15 minutes.</p>
+                
+                <div class="contact-details-list">
+                    <div class="contact-detail-item">
+                        <span class="detail-icon">📞</span>
+                        <div>
+                            <h4>Emergency Call Line (24/7)</h4>
+                            <a href="tel:+18005550199">(800) 555-0199</a>
+                        </div>
+                    </div>
+                    <div class="contact-detail-item">
+                        <span class="detail-icon">✉️</span>
+                        <div>
+                            <h4>Corporate General Inquiries</h4>
+                            <a href="mailto:office@hydroeliteplumbing.com">office@hydroeliteplumbing.com</a>
+                        </div>
+                    </div>
+                    <div class="contact-detail-item">
+                        <span class="detail-icon">📍</span>
+                        <div>
+                            <h4>HQ Dispatch Center</h4>
+                            <p>120 Plaza Industrial Way, Suite A, Metro City</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- DETAILED BOOKING FORM -->
+            <div class="contact-form-container glass-card scroll-reveal">
+                <div class="card-glow"></div>
+                <h3>Request Diagnostics / Schedule Service</h3>
+                <form id="mainContactForm">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="contactName">Full Name</label>
+                            <input type="text" id="contactName" required placeholder="e.g. John Doe">
+                        </div>
+                        <div class="form-group">
+                            <label for="contactPhone">Phone Number</label>
+                            <input type="tel" id="contactPhone" required placeholder="e.g. (555) 0199">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="contactEmail">Email Address</label>
+                            <input type="email" id="contactEmail" required placeholder="e.g. john@example.com">
+                        </div>
+                        <div class="form-group">
+                            <label for="contactZip">ZIP / Postal Code</label>
+                            <input type="text" id="contactZip" required placeholder="e.g. 90210">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="contactService">Requested Plumbing Scope</label>
+                        <select id="contactService" required>
+                            <option value="" disabled selected>Select service category...</option>
+                            <option value="Emergency plumbing">Emergency plumbing (Burst pipes, flooding)</option>
+                            <option value="Leak repairs">Leak repairs (Non-invasive pipe leak repair)</option>
+                            <option value="Drain cleaning">Drain cleaning (Clogged lines, sewer hydro-jetting)</option>
+                            <option value="Bathroom installation">Bathroom installation (Remodel, custom fixtures)</option>
+                            <option value="Boiler installation">Boiler & water heater installation</option>
+                            <option value="Pipe replacement">Pipe replacement (Repiping service)</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="contactMessage">Describe Your Issue / Project Scope</label>
+                        <textarea id="contactMessage" rows="4" placeholder="Briefly describe the plumbing issue so we can dispatch the appropriately equipped engineer..."></textarea>
+                    </div>
+                    <button type="submit" class="btn-primary w-full text-center btn-ripple">Submit Booking Request</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- 19. CORPORATE FOOTER -->
+    <footer class="main-footer">
+        <div class="container footer-grid">
+            <div class="footer-brand scroll-reveal">
+                <a href="#" class="logo">
+                    <span class="logo-icon">
+                        <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a7 7 0 0 0 7-7c0-4.3-7-11-7-11S5 10.7 5 15a7 7 0 0 0 7 7z"/></svg>
+                    </span>
+                    <span class="logo-text">Hydro<span>Elite</span></span>
+                </a>
+                <p class="footer-desc">The industry standard in premium plumbing, boiler commissionings, and priority leak resolutions. Stationed locally, dispatched 24 hours a day, 365 days a year.</p>
+                <div class="social-links">
+                    <a href="#" aria-label="Facebook">
+                        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+                    </a>
+                    <a href="#" aria-label="Instagram">
+                        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+                    </a>
+                    <a href="#" aria-label="Twitter">
+                        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="footer-links scroll-reveal">
+                <h4>Capabilities</h4>
+                <ul>
+                    <li><a href="#services">Emergency Plumbing</a></li>
+                    <li><a href="#services">Water Leak Repairs</a></li>
+                    <li><a href="#services">Drain Cleaning & Jetting</a></li>
+                    <li><a href="#services">Bathroom Remodels</a></li>
+                    <li><a href="#services">Boiler System Swaps</a></li>
+                    <li><a href="#services">Full House Repiping</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-links scroll-reveal">
+                <h4>Company Info</h4>
+                <ul>
+                    <li><a href="#team">Our Team</a></li>
+                    <li><a href="#why-choose">Company Guarantees</a></li>
+                    <li><a href="#reviews">Google Reviews</a></li>
+                    <li><a href="#gallery">Before & Afters</a></li>
+                    <li><a href="#faq">Help & FAQ</a></li>
+                    <li><a href="#quote-section">Request Quote</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-hours scroll-reveal">
+                <h4>Operating Hours</h4>
+                <ul>
+                    <li><span>Emergency Plumbers:</span> <strong>24 Hours / 7 Days</strong></li>
+                    <li><span>Office Assistance:</span> Mon - Fri / 8am - 6pm</li>
+                    <li><span>Weekend Office:</span> Sat - Sun / 9am - 4pm</li>
+                </ul>
+                <div class="license-info">
+                    <p>License ID: #PL-99283-A1</p>
+                    <p>Gas Registry: #GS-88219-H</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <div class="container footer-bottom-flex">
+                <p>&copy; 2026 HydroElite Plumbing & Heating. All rights reserved. Designed for conversion and visual excellence.</p>
+                <div class="footer-policies">
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Terms of Service</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- STICKY BOTTOM ACTIONS FOR MOBILE -->
+    <div class="floating-ctas">
+        <!-- Floating WhatsApp -->
+        <a href="https://wa.me/18005550199" target="_blank" class="floating-btn wa-float" aria-label="Chat with us on WhatsApp">
+            <svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.397.01 12.008.01c3.202.001 6.212 1.246 8.477 3.514 2.266 2.268 3.507 5.28 3.505 8.484-.004 6.657-5.34 11.997-11.953 11.997-2.005-.001-3.973-.502-5.724-1.455L0 24zm6.59-4.846c1.6.95 3.188 1.449 4.825 1.451 5.436 0 9.86-4.37 9.864-9.799.002-2.63-1.023-5.101-2.885-6.967C16.48 1.973 14.013.948 12.007.948c-5.442 0-9.866 4.372-9.87 9.802 0 1.714.475 3.393 1.374 4.869l-.997 3.645 3.754-.975zm13.12-7.146c-.29-.145-1.71-.845-1.976-.94-.266-.096-.46-.145-.653.146-.193.29-.747.94-.916 1.13-.17.19-.337.213-.627.068-.29-.145-1.22-.45-2.323-1.433-.858-.766-1.438-1.714-1.606-2.005-.17-.29-.018-.447.127-.59.13-.13.29-.338.435-.508.145-.17.193-.29.29-.483.096-.193.048-.36-.024-.507-.07-.145-.653-1.57-.893-2.148-.235-.568-.475-.49-.653-.5-.18-.008-.387-.01-.595-.01-.208 0-.547.078-.833.39-.286.313-1.093 1.07-1.093 2.61 0 1.54 1.12 3.03 1.27 3.23.15.2.22 3.017 3.402 4.385.758.326 1.35.522 1.81.667.76.242 1.45.208 2.0.126.61-.09 1.71-.7 1.954-1.378.245-.678.245-1.26.17-1.378-.072-.116-.265-.195-.556-.34z"/></svg>
+        </a>
+        <!-- Floating Call Now -->
+        <a href="tel:+18005550199" class="floating-btn phone-float btn-ripple" aria-label="Call Emergency Plumber Now">
+            <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            <span class="phone-float-text">Call 24/7 Dispatch</span>
+        </a>
+    </div>
+
+    <!-- SUCCESS MODAL FOR FORM SUBMISSION -->
+    <div class="modal-overlay" id="successModal">
+        <div class="modal-card glass-card">
+            <div class="modal-icon-success">
+                <svg viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+            </div>
+            <h2>Request Dispatched!</h2>
+            <p>Thank you. A certified HydroElite specialist has received your diagnostics request. We will reach you via telephone within 15 minutes.</p>
+            <button type="button" class="btn-primary btn-ripple" id="closeModalBtn">Close Window</button>
+        </div>
+    </div>
+
+    <!-- Main JS interactions script -->
+    <script src="app.js"></script>
+</body>
+</html>
